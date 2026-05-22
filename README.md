@@ -47,3 +47,15 @@ public static void main (String[] args) {
 Para executar esse programa há duas alternativas:
 1 - Aparecerá um botõ Run abaixo da public class Man, basta apertar e o resultado aparece no terminal do VSCode
 2 - abrir o Prompt de Commando (cmd) -> navegar até a pasta onde o projeto está salvo (cd nome-da-pasta)-> digitar primeiro javac Main.java 9se o projeto tiver outro nome é preciso digitar esse outro nome)-> pressipne Enter-> na pr-oxima linha digite java Main ou o nome do programa se or diferente)
+
+Variáveis:
+Variáveis guardam informações na memória.
+String name = "Wilson";
+int idade = 39;
+double altura = 1.78;
+boolean aluno = true;
+
+System.out.println(nome);
+System.out.println(idade);
+System.out.println(altura);
+System.out.println(aluno);
